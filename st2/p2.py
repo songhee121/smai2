@@ -1,6 +1,6 @@
 import streamlit as st
 
-#Side
+#Side Bar
 st.sidebar.markdown("Clicked Page 2")
 
 #Page

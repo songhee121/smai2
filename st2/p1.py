@@ -1,6 +1,6 @@
 import streamlit as st
 
-#Sidebar
+#Side Bar
 st.sidebar.markdown("Clicked Page 1")
 st.sidebar.markdown("Side Menu")
 st.sidebar.button("Click")
