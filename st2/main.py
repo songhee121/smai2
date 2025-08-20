@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.title("Main Page")
+st.markdown("Main Page")
+st.sidebar.markdown("Clicked Main Page")
